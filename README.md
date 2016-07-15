@@ -9,6 +9,6 @@
 Hi there! Please enjoy my Portfolio app :)
 
 Cheers,
-Sami
+Sami B.
 
 
