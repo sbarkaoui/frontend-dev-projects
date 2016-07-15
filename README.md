@@ -8,7 +8,7 @@
 
 Hi there! Please enjoy my Portfolio app :)
 
-Cheers
+Cheers,
 Sami
 
 
