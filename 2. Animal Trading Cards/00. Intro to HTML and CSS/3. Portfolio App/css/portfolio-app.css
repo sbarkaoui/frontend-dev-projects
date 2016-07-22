@@ -1,0 +1,68 @@
+
+/** {
+  outline: 1px solid red !important;
+}*/
+
+.container {
+  min-width: 337px;
+}
+
+.featured-work {
+
+  margin-left: 15px;
+
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #747704;
+  font-weight: 300;
+}
+
+.logo {
+  margin-top: 20px;
+  margin-top: 20px;
+  width: 73px;
+  height: 73px;
+  border: 1px solid #dddddd;
+  padding: 5px;
+  border-radius: 7px;
+}
+
+hr {
+  border-top: 2px solid #BCBBBB;
+}
+
+h1  {
+  color: #7b7373;
+  font-size: 40px;
+  font-weight: 100;
+}
+
+h2  {
+  color: #FF9800;
+}
+
+h3  {
+  color: #7b7373;
+}
+
+h4  {
+  color: #FF9800;
+}
+
+#big-puppy-image {
+
+  border-radius: 4px;
+  padding: 4px;
+  background-color: white;
+  border: 1px solid #dddddd;
+  cursor: auto;
+
+}
+
+.img-responsive {
+
+  cursor: pointer;
+
+}

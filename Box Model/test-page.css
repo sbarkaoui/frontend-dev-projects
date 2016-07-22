@@ -1,0 +1,22 @@
+
+
+.flex {
+
+  max-width: 400px;
+  text-align: justify;
+  display: flex;
+
+}
+
+.p1 {
+  padding-bottom: 80px;
+  border: solid red 2px;
+
+}
+
+.p2 {
+
+  /*margin-top: 50px;*/
+  padding-top: 50px;
+  border: solid red 2px;
+}

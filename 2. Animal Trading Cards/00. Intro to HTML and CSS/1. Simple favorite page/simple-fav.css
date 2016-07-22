@@ -1,0 +1,51 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+/** {
+  border: 1px solid red;
+}*/
+
+/** {
+  outline: 1px solid red !important;
+}*/
+
+
+.title {
+  color: white;
+  background-color: #33BEBE;
+  padding-top: 20px;
+  padding-left: 15px;
+
+}
+
+.app {
+  display: flex;
+  /* to support Safari */
+  display: -webkit-flex;
+}
+
+.description {
+  max-width: 701px;
+  width: 60%;
+}
+
+.text-description {
+  color: #7C8B88;
+  text-align: justify;
+}
+
+.screenshot {
+  max-width: 460px;
+  width: 40%;
+  margin: 16px 16px 16px 0px;
+}
+
+.fish-image {
+  width: 100%;
+}
